@@ -19,5 +19,5 @@ TestPayload = zipfile.ZipFile('EXAMPLEPACKAGE.zip')
 TestPayload.extractall()
 TestPayload.close()
 
-# Time for the pièce de résistance!
+# Time for the piece de resistance!
 os.system("installer -pkg EXAMPLEPAYLOAD.pkg -target /")
