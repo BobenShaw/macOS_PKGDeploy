@@ -1,5 +1,4 @@
-# Bob's Magic silent multi-part deployment script!
-# Find the source at: https://github.com/IchBinAsuka/macOS_PKGDeploy
+# Bob's macOS Extract/Install Quick Script
 # Written for applications like WebSense that run as PKGs but depend on files sitting with them.
 # Optimized for Python 2.7+ because Apple never updated to modern/clean Python for some reason
 # Hopefully your deployment software of choice will automatically escalate permissions!
